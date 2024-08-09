@@ -1,6 +1,4 @@
 /* Ricardo Gonzalez
- * MCS 141
- * Professor: Jonathan Sprague
  * 12/01/18
  * Fraction Class
  * */

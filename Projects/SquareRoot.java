@@ -1,6 +1,5 @@
-/* SquareRoot Class
- * MCS 141
- * 
+/* Ricardo Gonzalez
+ * SquareRoot Class
  * */
 
 public class SquareRoot implements Comparable<SquareRoot> {
